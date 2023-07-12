@@ -3,7 +3,7 @@
 #include "search_algos.h"
 
 /**
- * main - Entry point
+ * main Entry point
  *
  * Return: Always EXIT_SUCCESS
  */
